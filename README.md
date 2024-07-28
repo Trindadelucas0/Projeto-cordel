@@ -1,2 +1,2 @@
-# Projeti-cordel
+# Projeto-cordel
  Projeto HTML E CSS JUNTO COM GUSTAVO GUANABARA
